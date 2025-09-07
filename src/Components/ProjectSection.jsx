@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa"
 const projects = [
     {
         id: 1,
-        title: "Ayush's Poptfolio",
+        title: "Ayush's Portfolio",
         description: "A modern and responsive personal portfolio website built using React and Tailwind CSS, designed to showcase my skills, projects, and experience in web development. It features a clean UI, smooth animations, and a user-friendly layout, allowing visitors to explore my work and get in touch easily.",
         image: "/projects/portfolio_home.png",
         Tags: ["React JS", "Tailwind CSS"],
